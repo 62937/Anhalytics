@@ -18,4 +18,4 @@ Your team will be responsible for design of one of the above sections only. You 
 You need to propose 3 questions and create the script for them. Your stored procedures need to return both records as well as a customized message. Make sure to incorporate the appropriate checks as needed.
 
 > [!NOTE]
-> Our team chose Career Service and prepared phase 1 and phase 2 together. For phase 3, my proposed question together with my SQL script is Question #3.
+> Our team chose Career Service and prepared phase 1 and phase 2 together. For phase 3, my proposed question with my SQL script is Question #3 on the report.
