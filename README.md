@@ -5,7 +5,7 @@ Currently a Graduate student pursuing MS Business Analytics. _Anhalytics_ will b
 In _Anhalytics_, there are 3 folders:
 1. Data Analytics Reports in R and Python
 2. Diamond Price Research Project (Excel)
-3. San Francisco Housing Market Research (Excel, BigQuery, Grafana)
+3. San Francisco Housing Market Research (Excel, BigQuery, Grafana, SQL)
 4. Career Service Project (SQL)
  
 ### Contact me if you have questions: a_ta6@u.pacific.edu
