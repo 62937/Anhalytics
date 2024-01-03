@@ -1,5 +1,5 @@
 # Anhalytics
-The name _Analytics_ comes from my name _Anh_ and _Analytics_ :smiley:
+The name _Anhalytics_ comes from my name _Anh_ and _Analytics_ :smiley:
 
 Currently a Graduate student pursuing MS Business Analytics. _Anhalytics_ will be used to store my academic projects plus any self-learn projects.
 
