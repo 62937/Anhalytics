@@ -8,5 +8,7 @@ In _Anhalytics_, there are 4 folders:
 2. Diamond Price Research Project (Excel)
 3. San Francisco Housing Market Research (Excel, BigQuery, Grafana, SQL)
 4. Career Service Project (SQL)
+
+Visit my [Figma](https://www.figma.com/file/rMsKws1tMkovR9v36A1PyR/Untitled?type=design&node-id=0%3A1&mode=design&t=d9VBLwtgvpWAl3TM-1).
  
 ### Contact me if you have questions: a_ta6@u.pacific.edu
